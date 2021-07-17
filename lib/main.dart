@@ -11,7 +11,7 @@ class KahveUyg extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         body: SafeArea(
-          //Arkadaşlar bu saçma widget ekranda notificiton falan gelince onu kapatmamış oluyor
+          //Bu widget ekranda notificiton veya başka bir bildirim gelince onu kapatmamış oluyor
           child: Container(
             decoration: BoxDecoration(
                 shape: BoxShape.circle,
