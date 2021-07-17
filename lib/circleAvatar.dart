@@ -22,7 +22,7 @@ class KahveUyg extends StatelessWidget {
                 foregroundImage: AssetImage('assets/images/kahve.jpg'),
 
               ),
-              Text('Ece Hanım Kahveleri',
+              Text('Örnek isim Kahveleri',
                   style: TextStyle(fontSize: 50,
                       fontFamily:'Sacramento',color: Colors.deepOrange[600])),
               Text('Sevgilimden',
@@ -52,7 +52,7 @@ class KahveUyg extends StatelessWidget {
                   size: 50,
                   color: Colors.white,),
                     title:
-                  Text(': eceserra@gmai.com',style:TextStyle(color: Colors.white,fontSize: 40),),
+                  Text(': örnek@gmai.com',style:TextStyle(color: Colors.white,fontSize: 40),),
                   ),
                 ),
 
