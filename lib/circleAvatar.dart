@@ -25,7 +25,7 @@ class KahveUyg extends StatelessWidget {
               Text('Örnek isim Kahveleri',
                   style: TextStyle(fontSize: 50,
                       fontFamily:'Sacramento',color: Colors.deepOrange[600])),
-              Text('Sevgilimden',
+              Text('Dükkanımızdan',
                   style: TextStyle(fontSize: 60,color: Colors.white
                       )),
               Text('Sizlere',
