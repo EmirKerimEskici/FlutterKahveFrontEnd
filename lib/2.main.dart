@@ -12,7 +12,7 @@ class KahveUyg extends StatelessWidget {
       home: Scaffold(
         body: Column(
           crossAxisAlignment: CrossAxisAlignment.end,
-          //end dediğimizde en aşağı center dediğimizde orta start ise en başa default olan hale getirir veya .spaceevenly dyerek araladında eşit boşlukla yerleştirmiş oluruz
+          //end dediğimizde en aşağı center dediğimizde ise ortaya hizaladım. start ise en başa default olan hale getirir veya .spaceevenly diyerek araladında eşit boşlukla yerleştirmiş oluruz
           children: [
             Container(
               child: Text('1.Container'),
